@@ -5,7 +5,7 @@ echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m TBomb \e[0m"
 echo "Press Enter To Continue"
 read a1
-if [[ -s update.anonymus kid]];then
+if [[-s update.anonymus kid]];then
 echo "All Requirements Found...."
 else
 echo 'Installing Requirements....'
