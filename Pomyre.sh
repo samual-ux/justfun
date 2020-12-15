@@ -117,7 +117,7 @@ clear
 echo -e "\e[1;31m"
 figlet TBomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border anonymous kid
+toilet -f mono12 -F border3anonymus kid
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
 echo -e "\e[1;32m       Whatsapp: https://bit.do/samual-ux git \e[0m"
